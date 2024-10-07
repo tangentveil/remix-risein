@@ -1,4 +1,4 @@
-### Deployed smartcontract address: 0x03e9f84985ac5cc0389c621d8b68aca313d95dcba12dc73cfdb0d906b39054bb
+### Deployed smartcontract address: 0x60dd692b8b1949c2b52fb3a5bb961753938181680d45ebb097476b69676afde6
 
 ### Screenshot: <img width="945" alt="Screenshot 2024-10-05 151111" src="https://github.com/user-attachments/assets/08fd729a-009a-40b4-b285-012dd04eb676">
 
